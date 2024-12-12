@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
-</p>
 <p align="center"><h1 align="center">VILLAGE_PRICE_PREDICTOR</h1></p>
 <p align="center">
 	<em><code>❯ REPLACE-ME</code></em>
@@ -21,16 +18,10 @@
 ## 📍 Overview
 The Village Price Predictor project is a comprehensive solution designed to determine dynamic pricing for menu items in a village restaurant based on local conditions such as weather, busyness, and competitive pricing. By leveraging APIs,  the project provides actionable insights to restaurant owners to maximize revenue while maintaining competitiveness.
 
----
 
 ## 🚀 Getting Started
 
 ### ☑️ Prerequisites
-
-Before getting started with Village_price_predictor, ensure your runtime environment meets the following requirements:
-
-- **Programming Language:** Python
-
 
 ### ⚙️ Installation
 
@@ -86,15 +77,12 @@ Run the test suite using the following command:
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/Badhrinadhgvs/Village_price_predictor/blob/master/manage.py'>manage.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Badhrinadhgvs/Village_price_predictor/blob/master/db.sqlite3'>db.sqlite3</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Badhrinadhgvs/Village_price_predictor/blob/master/requirements.txt'>requirements.txt</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
 		</blockquote>
@@ -105,7 +93,6 @@ Run the test suite using the following command:
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/Badhrinadhgvs/Village_price_predictor/blob/master/templates/index.html'>index.html</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
 		</blockquote>
@@ -116,19 +103,15 @@ Run the test suite using the following command:
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/Badhrinadhgvs/Village_price_predictor/blob/master/Village_Price_Project/settings.py'>settings.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Badhrinadhgvs/Village_price_predictor/blob/master/Village_Price_Project/urls.py'>urls.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Badhrinadhgvs/Village_price_predictor/blob/master/Village_Price_Project/asgi.py'>asgi.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Badhrinadhgvs/Village_price_predictor/blob/master/Village_Price_Project/wsgi.py'>wsgi.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
 		</blockquote>
@@ -139,31 +122,24 @@ Run the test suite using the following command:
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/Badhrinadhgvs/Village_price_predictor/blob/master/myapp/tests.py'>tests.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Badhrinadhgvs/Village_price_predictor/blob/master/myapp/views.py'>views.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Badhrinadhgvs/Village_price_predictor/blob/master/myapp/apps.py'>apps.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Badhrinadhgvs/Village_price_predictor/blob/master/myapp/utils.py'>utils.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Badhrinadhgvs/Village_price_predictor/blob/master/myapp/urls.py'>urls.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Badhrinadhgvs/Village_price_predictor/blob/master/myapp/admin.py'>admin.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Badhrinadhgvs/Village_price_predictor/blob/master/myapp/models.py'>models.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
 		</blockquote>
