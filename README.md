@@ -6,7 +6,7 @@
 	<em><code>❯ REPLACE-ME</code></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/Badhrinadhgvs/Village_price_predictor?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	
 	<img src="https://img.shields.io/github/last-commit/Badhrinadhgvs/Village_price_predictor?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/Badhrinadhgvs/Village_price_predictor?style=default&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/Badhrinadhgvs/Village_price_predictor?style=default&color=0080ff" alt="repo-language-count">
